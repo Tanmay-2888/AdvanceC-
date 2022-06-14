@@ -1,0 +1,16 @@
+D:\AdvanceC#\Weekend2Assignments\bin\Debug\net5.0\Weekend2Assignments.exe
+D:\AdvanceC#\Weekend2Assignments\bin\Debug\net5.0\Weekend2Assignments.deps.json
+D:\AdvanceC#\Weekend2Assignments\bin\Debug\net5.0\Weekend2Assignments.runtimeconfig.json
+D:\AdvanceC#\Weekend2Assignments\bin\Debug\net5.0\Weekend2Assignments.runtimeconfig.dev.json
+D:\AdvanceC#\Weekend2Assignments\bin\Debug\net5.0\Weekend2Assignments.dll
+D:\AdvanceC#\Weekend2Assignments\bin\Debug\net5.0\ref\Weekend2Assignments.dll
+D:\AdvanceC#\Weekend2Assignments\bin\Debug\net5.0\Weekend2Assignments.pdb
+D:\AdvanceC#\Weekend2Assignments\obj\Debug\net5.0\Weekend2Assignments.csprojAssemblyReference.cache
+D:\AdvanceC#\Weekend2Assignments\obj\Debug\net5.0\Weekend2Assignments.GeneratedMSBuildEditorConfig.editorconfig
+D:\AdvanceC#\Weekend2Assignments\obj\Debug\net5.0\Weekend2Assignments.AssemblyInfoInputs.cache
+D:\AdvanceC#\Weekend2Assignments\obj\Debug\net5.0\Weekend2Assignments.AssemblyInfo.cs
+D:\AdvanceC#\Weekend2Assignments\obj\Debug\net5.0\Weekend2Assignments.csproj.CoreCompileInputs.cache
+D:\AdvanceC#\Weekend2Assignments\obj\Debug\net5.0\Weekend2Assignments.dll
+D:\AdvanceC#\Weekend2Assignments\obj\Debug\net5.0\ref\Weekend2Assignments.dll
+D:\AdvanceC#\Weekend2Assignments\obj\Debug\net5.0\Weekend2Assignments.pdb
+D:\AdvanceC#\Weekend2Assignments\obj\Debug\net5.0\Weekend2Assignments.genruntimeconfig.cache

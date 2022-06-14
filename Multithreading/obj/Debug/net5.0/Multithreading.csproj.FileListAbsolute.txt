@@ -1,0 +1,16 @@
+D:\AdvanceC#\Multithreading\obj\Debug\net5.0\Multithreading.csprojAssemblyReference.cache
+D:\AdvanceC#\Multithreading\obj\Debug\net5.0\Multithreading.GeneratedMSBuildEditorConfig.editorconfig
+D:\AdvanceC#\Multithreading\obj\Debug\net5.0\Multithreading.AssemblyInfoInputs.cache
+D:\AdvanceC#\Multithreading\obj\Debug\net5.0\Multithreading.AssemblyInfo.cs
+D:\AdvanceC#\Multithreading\obj\Debug\net5.0\Multithreading.csproj.CoreCompileInputs.cache
+D:\AdvanceC#\Multithreading\bin\Debug\net5.0\Multithreading.exe
+D:\AdvanceC#\Multithreading\bin\Debug\net5.0\Multithreading.deps.json
+D:\AdvanceC#\Multithreading\bin\Debug\net5.0\Multithreading.runtimeconfig.json
+D:\AdvanceC#\Multithreading\bin\Debug\net5.0\Multithreading.runtimeconfig.dev.json
+D:\AdvanceC#\Multithreading\bin\Debug\net5.0\Multithreading.dll
+D:\AdvanceC#\Multithreading\bin\Debug\net5.0\ref\Multithreading.dll
+D:\AdvanceC#\Multithreading\bin\Debug\net5.0\Multithreading.pdb
+D:\AdvanceC#\Multithreading\obj\Debug\net5.0\Multithreading.dll
+D:\AdvanceC#\Multithreading\obj\Debug\net5.0\ref\Multithreading.dll
+D:\AdvanceC#\Multithreading\obj\Debug\net5.0\Multithreading.pdb
+D:\AdvanceC#\Multithreading\obj\Debug\net5.0\Multithreading.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\AdvanceC#\22-04-22\bin\Debug\net5.0\22-04-22.exe
+D:\AdvanceC#\22-04-22\bin\Debug\net5.0\22-04-22.deps.json
+D:\AdvanceC#\22-04-22\bin\Debug\net5.0\22-04-22.runtimeconfig.json
+D:\AdvanceC#\22-04-22\bin\Debug\net5.0\22-04-22.runtimeconfig.dev.json
+D:\AdvanceC#\22-04-22\bin\Debug\net5.0\22-04-22.dll
+D:\AdvanceC#\22-04-22\bin\Debug\net5.0\ref\22-04-22.dll
+D:\AdvanceC#\22-04-22\bin\Debug\net5.0\22-04-22.pdb
+D:\AdvanceC#\22-04-22\obj\Debug\net5.0\22-04-22.csprojAssemblyReference.cache
+D:\AdvanceC#\22-04-22\obj\Debug\net5.0\22-04-22.GeneratedMSBuildEditorConfig.editorconfig
+D:\AdvanceC#\22-04-22\obj\Debug\net5.0\22-04-22.AssemblyInfoInputs.cache
+D:\AdvanceC#\22-04-22\obj\Debug\net5.0\22-04-22.AssemblyInfo.cs
+D:\AdvanceC#\22-04-22\obj\Debug\net5.0\22-04-22.csproj.CoreCompileInputs.cache
+D:\AdvanceC#\22-04-22\obj\Debug\net5.0\22-04-22.dll
+D:\AdvanceC#\22-04-22\obj\Debug\net5.0\ref\22-04-22.dll
+D:\AdvanceC#\22-04-22\obj\Debug\net5.0\22-04-22.pdb
+D:\AdvanceC#\22-04-22\obj\Debug\net5.0\22-04-22.genruntimeconfig.cache

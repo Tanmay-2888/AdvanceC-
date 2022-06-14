@@ -1,0 +1,5 @@
+D:\AdvanceC#\Quiz Game\obj\Debug\net5.0\Quiz Game.csprojAssemblyReference.cache
+D:\AdvanceC#\Quiz Game\obj\Debug\net5.0\Quiz Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\AdvanceC#\Quiz Game\obj\Debug\net5.0\Quiz Game.AssemblyInfoInputs.cache
+D:\AdvanceC#\Quiz Game\obj\Debug\net5.0\Quiz Game.AssemblyInfo.cs
+D:\AdvanceC#\Quiz Game\obj\Debug\net5.0\Quiz Game.csproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+D:\AdvanceC#\ArrayC#\bin\Debug\net5.0\ArrayC#.exe
+D:\AdvanceC#\ArrayC#\bin\Debug\net5.0\ArrayC#.deps.json
+D:\AdvanceC#\ArrayC#\bin\Debug\net5.0\ArrayC#.runtimeconfig.json
+D:\AdvanceC#\ArrayC#\bin\Debug\net5.0\ArrayC#.runtimeconfig.dev.json
+D:\AdvanceC#\ArrayC#\bin\Debug\net5.0\ArrayC#.dll
+D:\AdvanceC#\ArrayC#\bin\Debug\net5.0\ref\ArrayC#.dll
+D:\AdvanceC#\ArrayC#\bin\Debug\net5.0\ArrayC#.pdb
+D:\AdvanceC#\ArrayC#\obj\Debug\net5.0\ArrayC#.csprojAssemblyReference.cache
+D:\AdvanceC#\ArrayC#\obj\Debug\net5.0\ArrayC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\AdvanceC#\ArrayC#\obj\Debug\net5.0\ArrayC#.AssemblyInfoInputs.cache
+D:\AdvanceC#\ArrayC#\obj\Debug\net5.0\ArrayC#.AssemblyInfo.cs
+D:\AdvanceC#\ArrayC#\obj\Debug\net5.0\ArrayC#.csproj.CoreCompileInputs.cache
+D:\AdvanceC#\ArrayC#\obj\Debug\net5.0\ArrayC#.dll
+D:\AdvanceC#\ArrayC#\obj\Debug\net5.0\ref\ArrayC#.dll
+D:\AdvanceC#\ArrayC#\obj\Debug\net5.0\ArrayC#.pdb
+D:\AdvanceC#\ArrayC#\obj\Debug\net5.0\ArrayC#.genruntimeconfig.cache

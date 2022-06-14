@@ -1,0 +1,16 @@
+D:\AdvanceC#\Sorting Tech\bin\Debug\net5.0\Sorting Tech.exe
+D:\AdvanceC#\Sorting Tech\bin\Debug\net5.0\Sorting Tech.deps.json
+D:\AdvanceC#\Sorting Tech\bin\Debug\net5.0\Sorting Tech.runtimeconfig.json
+D:\AdvanceC#\Sorting Tech\bin\Debug\net5.0\Sorting Tech.runtimeconfig.dev.json
+D:\AdvanceC#\Sorting Tech\bin\Debug\net5.0\Sorting Tech.dll
+D:\AdvanceC#\Sorting Tech\bin\Debug\net5.0\ref\Sorting Tech.dll
+D:\AdvanceC#\Sorting Tech\bin\Debug\net5.0\Sorting Tech.pdb
+D:\AdvanceC#\Sorting Tech\obj\Debug\net5.0\Sorting Tech.csprojAssemblyReference.cache
+D:\AdvanceC#\Sorting Tech\obj\Debug\net5.0\Sorting Tech.GeneratedMSBuildEditorConfig.editorconfig
+D:\AdvanceC#\Sorting Tech\obj\Debug\net5.0\Sorting Tech.AssemblyInfoInputs.cache
+D:\AdvanceC#\Sorting Tech\obj\Debug\net5.0\Sorting Tech.AssemblyInfo.cs
+D:\AdvanceC#\Sorting Tech\obj\Debug\net5.0\Sorting Tech.csproj.CoreCompileInputs.cache
+D:\AdvanceC#\Sorting Tech\obj\Debug\net5.0\Sorting Tech.dll
+D:\AdvanceC#\Sorting Tech\obj\Debug\net5.0\ref\Sorting Tech.dll
+D:\AdvanceC#\Sorting Tech\obj\Debug\net5.0\Sorting Tech.pdb
+D:\AdvanceC#\Sorting Tech\obj\Debug\net5.0\Sorting Tech.genruntimeconfig.cache

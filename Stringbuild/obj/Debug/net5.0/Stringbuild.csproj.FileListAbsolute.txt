@@ -1,0 +1,16 @@
+D:\AdvanceC#\Stringbuild\bin\Debug\net5.0\Stringbuild.exe
+D:\AdvanceC#\Stringbuild\bin\Debug\net5.0\Stringbuild.deps.json
+D:\AdvanceC#\Stringbuild\bin\Debug\net5.0\Stringbuild.runtimeconfig.json
+D:\AdvanceC#\Stringbuild\bin\Debug\net5.0\Stringbuild.runtimeconfig.dev.json
+D:\AdvanceC#\Stringbuild\bin\Debug\net5.0\Stringbuild.dll
+D:\AdvanceC#\Stringbuild\bin\Debug\net5.0\ref\Stringbuild.dll
+D:\AdvanceC#\Stringbuild\bin\Debug\net5.0\Stringbuild.pdb
+D:\AdvanceC#\Stringbuild\obj\Debug\net5.0\Stringbuild.csprojAssemblyReference.cache
+D:\AdvanceC#\Stringbuild\obj\Debug\net5.0\Stringbuild.GeneratedMSBuildEditorConfig.editorconfig
+D:\AdvanceC#\Stringbuild\obj\Debug\net5.0\Stringbuild.AssemblyInfoInputs.cache
+D:\AdvanceC#\Stringbuild\obj\Debug\net5.0\Stringbuild.AssemblyInfo.cs
+D:\AdvanceC#\Stringbuild\obj\Debug\net5.0\Stringbuild.csproj.CoreCompileInputs.cache
+D:\AdvanceC#\Stringbuild\obj\Debug\net5.0\Stringbuild.dll
+D:\AdvanceC#\Stringbuild\obj\Debug\net5.0\ref\Stringbuild.dll
+D:\AdvanceC#\Stringbuild\obj\Debug\net5.0\Stringbuild.pdb
+D:\AdvanceC#\Stringbuild\obj\Debug\net5.0\Stringbuild.genruntimeconfig.cache

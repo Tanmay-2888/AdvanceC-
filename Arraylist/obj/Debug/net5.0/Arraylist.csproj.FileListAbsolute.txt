@@ -1,0 +1,16 @@
+D:\AdvanceC#\Arraylist\bin\Debug\net5.0\Arraylist.exe
+D:\AdvanceC#\Arraylist\bin\Debug\net5.0\Arraylist.deps.json
+D:\AdvanceC#\Arraylist\bin\Debug\net5.0\Arraylist.runtimeconfig.json
+D:\AdvanceC#\Arraylist\bin\Debug\net5.0\Arraylist.runtimeconfig.dev.json
+D:\AdvanceC#\Arraylist\bin\Debug\net5.0\Arraylist.dll
+D:\AdvanceC#\Arraylist\bin\Debug\net5.0\ref\Arraylist.dll
+D:\AdvanceC#\Arraylist\bin\Debug\net5.0\Arraylist.pdb
+D:\AdvanceC#\Arraylist\obj\Debug\net5.0\Arraylist.csprojAssemblyReference.cache
+D:\AdvanceC#\Arraylist\obj\Debug\net5.0\Arraylist.GeneratedMSBuildEditorConfig.editorconfig
+D:\AdvanceC#\Arraylist\obj\Debug\net5.0\Arraylist.AssemblyInfoInputs.cache
+D:\AdvanceC#\Arraylist\obj\Debug\net5.0\Arraylist.AssemblyInfo.cs
+D:\AdvanceC#\Arraylist\obj\Debug\net5.0\Arraylist.csproj.CoreCompileInputs.cache
+D:\AdvanceC#\Arraylist\obj\Debug\net5.0\Arraylist.dll
+D:\AdvanceC#\Arraylist\obj\Debug\net5.0\ref\Arraylist.dll
+D:\AdvanceC#\Arraylist\obj\Debug\net5.0\Arraylist.pdb
+D:\AdvanceC#\Arraylist\obj\Debug\net5.0\Arraylist.genruntimeconfig.cache

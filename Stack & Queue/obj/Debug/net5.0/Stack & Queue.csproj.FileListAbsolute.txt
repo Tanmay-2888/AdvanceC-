@@ -1,0 +1,16 @@
+D:\AdvanceC#\Stack & Queue\bin\Debug\net5.0\Stack & Queue.exe
+D:\AdvanceC#\Stack & Queue\bin\Debug\net5.0\Stack & Queue.deps.json
+D:\AdvanceC#\Stack & Queue\bin\Debug\net5.0\Stack & Queue.runtimeconfig.json
+D:\AdvanceC#\Stack & Queue\bin\Debug\net5.0\Stack & Queue.runtimeconfig.dev.json
+D:\AdvanceC#\Stack & Queue\bin\Debug\net5.0\Stack & Queue.dll
+D:\AdvanceC#\Stack & Queue\bin\Debug\net5.0\ref\Stack & Queue.dll
+D:\AdvanceC#\Stack & Queue\bin\Debug\net5.0\Stack & Queue.pdb
+D:\AdvanceC#\Stack & Queue\obj\Debug\net5.0\Stack & Queue.csprojAssemblyReference.cache
+D:\AdvanceC#\Stack & Queue\obj\Debug\net5.0\Stack & Queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\AdvanceC#\Stack & Queue\obj\Debug\net5.0\Stack & Queue.AssemblyInfoInputs.cache
+D:\AdvanceC#\Stack & Queue\obj\Debug\net5.0\Stack & Queue.AssemblyInfo.cs
+D:\AdvanceC#\Stack & Queue\obj\Debug\net5.0\Stack & Queue.csproj.CoreCompileInputs.cache
+D:\AdvanceC#\Stack & Queue\obj\Debug\net5.0\Stack & Queue.dll
+D:\AdvanceC#\Stack & Queue\obj\Debug\net5.0\ref\Stack & Queue.dll
+D:\AdvanceC#\Stack & Queue\obj\Debug\net5.0\Stack & Queue.pdb
+D:\AdvanceC#\Stack & Queue\obj\Debug\net5.0\Stack & Queue.genruntimeconfig.cache

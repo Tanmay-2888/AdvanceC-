@@ -1,0 +1,16 @@
+D:\AdvanceC#\STRUCT C#\bin\Debug\net5.0\STRUCT C#.exe
+D:\AdvanceC#\STRUCT C#\bin\Debug\net5.0\STRUCT C#.deps.json
+D:\AdvanceC#\STRUCT C#\bin\Debug\net5.0\STRUCT C#.runtimeconfig.json
+D:\AdvanceC#\STRUCT C#\bin\Debug\net5.0\STRUCT C#.runtimeconfig.dev.json
+D:\AdvanceC#\STRUCT C#\bin\Debug\net5.0\STRUCT C#.dll
+D:\AdvanceC#\STRUCT C#\bin\Debug\net5.0\ref\STRUCT C#.dll
+D:\AdvanceC#\STRUCT C#\bin\Debug\net5.0\STRUCT C#.pdb
+D:\AdvanceC#\STRUCT C#\obj\Debug\net5.0\STRUCT C#.csprojAssemblyReference.cache
+D:\AdvanceC#\STRUCT C#\obj\Debug\net5.0\STRUCT C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\AdvanceC#\STRUCT C#\obj\Debug\net5.0\STRUCT C#.AssemblyInfoInputs.cache
+D:\AdvanceC#\STRUCT C#\obj\Debug\net5.0\STRUCT C#.AssemblyInfo.cs
+D:\AdvanceC#\STRUCT C#\obj\Debug\net5.0\STRUCT C#.csproj.CoreCompileInputs.cache
+D:\AdvanceC#\STRUCT C#\obj\Debug\net5.0\STRUCT C#.dll
+D:\AdvanceC#\STRUCT C#\obj\Debug\net5.0\ref\STRUCT C#.dll
+D:\AdvanceC#\STRUCT C#\obj\Debug\net5.0\STRUCT C#.pdb
+D:\AdvanceC#\STRUCT C#\obj\Debug\net5.0\STRUCT C#.genruntimeconfig.cache
